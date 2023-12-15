@@ -1,0 +1,6 @@
+.text-home{
+    color: var(--color-font-secondary);
+    font-weight: 700;
+    font-size: 24px;
+    padding-left: 10px;
+}
